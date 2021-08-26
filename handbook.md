@@ -43,7 +43,7 @@ motivation to end graduate study quickly, and faculty availability,
 among other issues.  Students begin their program with
 primarily taking classes and end it with primarily research, with the
 years in between being a mix of the two. During the first two years a
-student typically takes three to four classes a semester.
+student typically takes two or three classes a semester.
 
 Five years is the average time period for completion of PhD, with many
 students continuing into their sixth year. Below is a time table based
@@ -68,12 +68,12 @@ will likely be your Committee Chair for your Graduate Committee.
 
 Take classes both semesters.
 
-By the end of your fall semester, you must have chosen your Committee
-Chair and your full committee (minimum of three members including your
-Chair). You will need to submit this request online in Student
-Center. Your advisor, the DGS, and GFA will receive an email to sign
-off on the request. Begin exploring research topics for the coming
-spring and/or summer.
+By the end of your fall semester, you must have chosen your full
+committee (minimum of three members including your Chair). You will
+need to submit this request online in Student Center. Your advisor,
+the DGS, and GFA will receive an email to sign off on the
+request. Begin exploring research topics for the coming spring and/or
+summer.
 
 During the spring semester your research should now be underway.
 
@@ -330,17 +330,17 @@ days ahead.
 
 # Courses
 
-A normal course load for a beginning graduate student is three courses
-per term.  The Director of Graduate Studies in conjunction with the
-student's temporary committee chair will assist first-year students in
-determining the appropriate courses to meet individual needs.  All
-requirement courses must be taken for a letter grade.
+A normal course load for a beginning graduate student is two or three
+courses per term.  The Director of Graduate Studies in conjunction
+with the student's temporary committee chair will assist first-year
+students in determining the appropriate courses to meet individual
+needs.  All requirement courses must be taken for a letter grade.
 
 ## Enrollment expectations
 
 Students on ordinary status (e.g.~not on leave of absence) are
 required to enroll in a minimum of 12 credits per semester.  Students
-ont enrolled in sufficient courses must be enrolled for research using
+not enrolled in sufficient courses must be enrolled for research using
 either Graduate School or, if available, departmental course numbers
 assigned for that purpose.  Graduate School research courses will be
 automatically adjusted at the end of the grop period to bring total
@@ -561,16 +561,18 @@ the student. The student is not responsible for any charge or duty in
 this process. The current tuition amount can be found on the Graduate
 School web site.
 
-### Student Health Insurance Plan (SHIP)
+### [Student Health Plan (SHP)](https://studenthealthbenefits.cornell.edu/health-plans/shp)
 
-The SHIP premium is paid on a yearly basis by the department(s)
+The SHP premium is paid on a yearly basis by the department(s)
 supporting the student. The student is not responsible for any charge
-or duty in the process. Information may be found on the SHIP web
+or duty in the process. Information may be found on the SHP web
 site. Please note that only the student's health plan is covered in
-the support package. Spousal/family insurance is available, but is the
-responsibility of the student. The student is also responsible for any
-copays or deductibles incurred as a result of using services while on
-the plan.
+the support package. Optional [dental and vision
+plans](https://studenthealthbenefits.cornell.edu/dental-vision-plans)
+are available, but are not included as a part of SHP.  Spousal/family
+insurance is available, but is the responsibility of the student. The
+student is also responsible for any copays or deductibles incurred as
+a result of using services while on the plan.
 
 ### Stipend
 
