@@ -381,7 +381,7 @@ one such area as chosen by the student's Special Committee.
 The program allows great flexibility in the selection of courses. Most
 students design their own course sequences, subject to requirements,
 to meet their own interests. Courses are typically chosen from the
-math department and many applications departments
+math department and many applications departments.
 
 The seven major Focal Areas for the field of applied mathematics are
 listed below, along with examples of recommended courses for
@@ -453,8 +453,8 @@ The NY State Education Department policy indicates that
 
 Some CAM focal area courses will be offered with both 4000-level and
 5000-level versions going forward, including MATH 4410-4420, MATH
-4250-4260 (crosslisted as CS 4210-4220), and MATH 4210.  The
-5000-level versions Because of this policy, beginning in Fall 2021,
+4250-4260 (crosslisted as CS 4210-4220), and MATH 4210.
+Because of this policy, beginning in Fall 2021,
 courses taken to fulfill CAM requirements must be taken with the
 *graduate* course number (5000+).
 
@@ -495,7 +495,16 @@ In addition to the talk, speakers are invited to have lunch with the
 students (funded by CAM). The lunch meeting is not open to other
 faculty, and is meant to give students the chance to have a candid
 conversation with the speaker about mathematics, mathematical careers,
-and life more generally.
+and life more generally.  Indiviual meetings are also sometimes available
+for students to have technical discussions with the speaker.
+
+Colloquium invitations are coordinated by the colloquium committee,
+which includes a student representative.  In addition to helping with
+the schedule more generally, the student representative is responsible
+for helping find student hosts to guide the student-speaker lunch.
+The student representative will also help coordinate the
+student-selected speaker colloquium, where the speaker is invited by
+the students rather than by the faculty.
 
 ## Bill Sears Blitz
 
@@ -503,7 +512,7 @@ The Bill Sears Blitz slide and poster session is an opportunity for
 CAM faculty and students and community members to mingle and learn
 about all the interesting things that CAM members are doing.
 Presenters are welcome to give a poster and/or a one-minute one-slide
-summary in a "poster blitz" talk or give a slide in the blitz session.
+summary in a "poster blitz" talk.
 This event takes place in the fall semester, and is meant both as a
 way for new students to learn about prospective advisors and for the
 rest of CAM to keep up with what is going on in the center.
