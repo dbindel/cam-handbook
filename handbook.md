@@ -482,6 +482,18 @@ computer labs on campus, and especially Rhodes Hall. Print jobs with
 more difficult requirements can be accommodated by working with
 departmental staff.
 
+## Computing resources
+
+Incoming CAM students are provided with their own computer.  This can be
+either a laptop or a desktop, at the request of the student.
+
+## CAM Wiki
+
+The [CAM student wiki](https://sites.google.com/cornell.edu/camwiki/home)
+is a website where students collaborate to gather advice
+and resources on careers, teaching, computing, and life in Ithaca.
+The wiki is only open to students.
+
 ## Colloquium
 
 The applied math colloquium meets on Fridays from 3:30-4:30, with
@@ -608,17 +620,23 @@ package. However, stipend amounts and payment schedules will vary.
 
 Fellowships are highly desirable because they do not carry an extra
 work/effort requirement. There are numerous types of fellowships
-available, with most being competitive. There exists a number of
-fellowships awarded by external to Cornell organizations, such as
-National Science Foundation, Departments of Energy, Defense and
-Homeland Security, and others. CAM awards the prestigious Presidential
-fellowship to two new students every year at the discretion of the
-Admissions Committee. The Cornell Graduate School also offers a number
-of fellowships according to certain criteria. Whenever possible, the
-Admissions Committee (for new students) and CAM faculty and advisors
-(for current students) nominate appropriate candidates for these
-competitive fellowships. Fellowship stipends are typically paid in two
-lump sums divided between the Fall and Spring semesters.
+available, with most being competitive.  Fellowship stipends are
+typically paid in two lump sums divided between the Fall and Spring
+semesters.
+
+A number of fellowships are awarded by government agencies,
+such as National Science Foundation, Departments of Energy, Defense
+and Homeland Security, and others.  There are also opportunities for
+fellowships from companies like Google, Microsoft, and Bloomberg; and
+there are opportunities from many nonprofits, such as the Sloan
+Foundation, the Ford Foundation, and the Simons Foundation.
+
+CAM awards the prestigious Presidential fellowship to two new students
+every year at the discretion of the Admissions Committee. The Cornell
+Graduate School also offers a number of fellowships according to
+certain criteria. Whenever possible, the Admissions Committee (for new
+students) and CAM faculty and advisors (for current students) nominate
+appropriate candidates for these competitive fellowships.
 
 ### Teaching Assistantships (TAs)
 
