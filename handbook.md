@@ -32,7 +32,75 @@ from a variety of educational backgrounds that have a strong
 mathematics component. Generally, only students who wish to become
 candidates for the Doctor of Philosophy Degree are considered. About
 40-50 students are enrolled in the program, which usually requires
-4-6 years to complete.
+4-6 years to complete.  A typical CAM class size is about eight
+students, though the target size depends on funding, advising
+capacity, and space.
+
+# Application to the program
+
+[Applications to the CAM PhD
+program](https://www.cam.cornell.edu/cam/academics/phd-program/admissions)
+are due in January.  Applications are only accepted for the fall
+semester.  The online application system is managed by the Graduate
+School, and a non-refundable application fee of $105 is required at
+the time you submit your application to cover the cost of processing.
+[Fee waivers are
+available](https://gradschool.cornell.edu/admissions/apply/application-fees-2/)
+for students with financial need and for students who have
+participated in a variety of programs designed to provide educational
+and/or career support to students from historically underrepresented
+identities.  A list of eligible programs is [available on the Graduate
+School application fee
+page](https://gradschool.cornell.edu/admissions/apply/application-fees-2/).
+
+As part of the application, you will be asked for:
+
+- *Basic information*: Typical application information such as
+  nationality, GPA, schools attended, etc.
+- *Transcripts*: Accurate unofficial transcripts for each school you
+  have attended.  There is space in the field for listing three
+  schools; if you have attended more than three, you must upload those
+  transcripts in the writing sample portion of the application.
+- *Statement of purpose*: A [statement of purpose](https://gradschool.cornell.edu/admissions/prepare/statements-of-purpose/) is required and can
+  be uploaded directly into the application.  The statement should
+  ideally include information about areas of mathematics that interest
+  you and field members who you might like to work with.
+- *Personal statement*: The Personal Statement is optional for
+  domestic applicants who wish to be considered for [Fellowships in
+  Support of
+  Diversity](https://gradschool.cornell.edu/diversity-inclusion/funding-and-resources/graduate-school-fellowships-in-support-of-diversity/).
+  The personal statement is not used to evaluate applicants for
+  admission; rather, once the applicant is deemed admissible, it will
+  be used to evaluate the applicant for Fellowships in Support of
+  Diversity nomination.
+- *Letters of recommendation*: At least three letters of
+  recommendation are required.  Additional letters are allowed.
+  Recommenders may submit their letters online.  Once an application
+  is submitted, recommenders receive an automated email soliciting
+  their letter.  You will be prompted to provide their contact
+  information before you submit your application.
+- *Test scores*: Submitting GREs is *optional*.  The GRE subject test
+  in mathematics is also not required, but is particularly useful for
+  students for whom math is a secondary field at the time of
+  application.  If submitting scores, the University code is 2098.
+- *Language scores*: With very few exceptions, international
+  applicants must demonstrate English language proficiency by
+  submitting IELTS (nternational English Language Testing System)
+  Academic or ROEFL (Test of English as a Foreign Language) scores to
+  the graduate school.  Scores are valid only if dated within two
+  years of the application deadline.  Minimum scores and exception
+  policies are [detailed on the Graduate School web page](https://gradschool.cornell.edu/admissions/prepare/english-language-proficiency-requirement/).
+- If you have supplemental documents such as undergraduate research
+  papers, awards, etc, upload them in the writing sample of the
+  application.
+
+The admissions committee begins reviewing applications in mid-January
+and continues throughout February.  Decisions are communicated to
+applicants until the end of March.  Applicants offered admission will
+receive an admission letter and a deadline for when they need to
+inform CAM about their enrollment decisions (usually April 15).  When
+international students respond that they will enroll at Cornell, they
+are sent an I-20 form.
 
 # Program timeline and milestones
 
@@ -305,9 +373,9 @@ must be completed before the beginning of the student's seventh
 semester.  The admission to candidacy examination is given to
 determine if the student is "ready to begin work on a thesis." The
 content and methods of examination are agreed on by the student and
-his/her committee before the examination. The student must be prepared
+their committee before the examination. The student must be prepared
 to answer questions on the proposed area of research, and to pass the
-exam, he/she must demonstrate expertise beyond just mastery of basic
+exam, they must demonstrate expertise beyond just mastery of basic
 mathematics covered in the standard first-year graduate courses.
 
 The A-Exam should be scheduled well in advance of the exam and the
@@ -323,7 +391,7 @@ The candidate must write a thesis that represents creative work and
 contains original results in that area. The research is carried on
 independently by the candidate under the supervision of the
 chairperson of the Special Committee. When the thesis is completed,
-the student presents his/her results at the thesis defense or B exam.
+the student presents their results at the thesis defense or B exam.
 The B-Exam (thesis defense) is scheduled with the same form as the
 A-Exam and must be submitted to the Grad School at least 7 calendar
 days ahead.
@@ -438,9 +506,37 @@ Signal and Image Processing, etc.)
 ## Minor requirements
 
 Students are required to have minors in Mathematics and in another
-field relevant to their doctoral research. Note that the course
-requirements listed above may suffice to satisfy the requirements for
-a graduate minor in Mathematics.
+field relevant to their doctoral research.  The Graduate School
+requires a representative of each minor on the student's committee;
+ultimately, it is up to the minor representative to judge whether
+the minor requirements are met.  However, most fields provide guidance
+regarding the expected minor requirements.
+
+The requirements for the Mathematics minor are [specified on the web
+site for the Mathematics
+department](https://math.cornell.edu/math-minor-and-math-concentration).
+Briefly, this involves:
+
+- Two graduate mathematics courses, at least one of which is
+  6000-level or higher, with an earned letter grade of B- or better.
+  These should be taken from:
+  - 5000-level: 5250 (Numerical Analysis and Differential Equations),
+    5410 (Intro to Combinatorics I), 5420 (Intro to Combinatorics II)
+  - 6000-level: 6110 (Real Analysis), 6120 (Complex Analysis), 6150
+    (Partial Differential Equations), 6160 (Partial Differential
+    Equations), 6210 (Measure Theory and Lebesgue Integration), 6310
+    Algebra), 6320 (Algebra II), 6510 (Algebraic Topology), 6520
+    (Differentiable Manifolds), 6710 (Probability Theory I), 6720
+    (Probability Theory II), 6740 (Mathematical Statistics II), 6810
+    (Logic).
+  - The Mathematics field member on the special committee may
+    approve other 6000-level courses if they have graded homework or
+    graded exams.
+- Two additional mathematics courses at the 6000-level or higher.
+
+Note that the course requirements listed above for the CAM core may
+suffice to satisfy the requirements for a graduate minor in
+Mathematics.
 
 ## Note on eligible courses
 
@@ -676,9 +772,10 @@ of the assistantship and work do not exceed 20 hours per week.
 There is no tuition charged if a student enrolls in research over the
 summer (June-August). However, the student is responsible for tuition
 if they enroll in a class and are expecting to receive a residency
-unit. CAM is not able to guarantee summer funding, though most
+unit. CAM is not able to guarantee summer funding, though many
 students receive summer funding as a GRA or TA depending on faculty
-support.
+support. Many CAM students also take advantage of the summer period to
+pursue internships in industry, national labs, or elsewhere.
 
 ## Conference and travel grants
 
