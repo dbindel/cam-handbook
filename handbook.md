@@ -201,15 +201,6 @@ might include:
  - Relating to other students
  - Any concerning behavior encountered (unethical behavior, biased speech)
 
-For mental health resources we have CAPS (counseling and psychological
-services in Gannett Health Center), EARS (peer counseling), and Let's
-Talk (drop-in consultation; the nearest is in Sage Hall Thursdays
-2:30-4:30pm).  And for any concerns about unethical behavior, biased
-speech, etc, resources students should know about are the Office of
-Institutional Equity and Title IX, Office of the University Ombudsman
-(<www.ombudsman.cornell.edu>) and the bias reporting center (255-1426,
-`report_bias@cornell.edu`).
-
 ## Peer Mentoring Program
 
 The Peer Mentoring Program offers formal support to CAM students in
@@ -569,14 +560,9 @@ Hall where all our PhD students and postdocs have their desks.
 Each student is guaranteed an individual cubicle in a shared work
 space environment. This set up allows for more collaboration and
 mentoring among students while giving a space to work and store your
-materials.
-
-CAM has several shared workstations in Rhodes 657 that have relevant
-software. Color and black and white printers are also available on the
-shared workstations. Students also have access to other computers in
-computer labs on campus, and especially Rhodes Hall. Print jobs with
-more difficult requirements can be accommodated by working with
-departmental staff.
+materials.  A color printer is available, and print jobs with more
+difficult requirements can be accommodated by working with the
+Administrative Manager.
 
 ## Computing resources
 
@@ -594,7 +580,7 @@ The wiki is only open to students.
 
 The applied math colloquium meets on Fridays from 3:30-4:30, with
 refreshments in the CAM space afterward.  The colloquium usually (but
-not always) meets in Rhodes 657.  The talks cover a wide range of
+not always) meets in Rhodes 655.  The talks cover a wide range of
 applied mathematics, and are meant to be accessible to a broad applied
 math audience.  Students are encouraged to show up even for talks
 outside their immediate interest!
@@ -633,10 +619,17 @@ of the SIAM student chapter, students are also eligible to [free SIAM
 student
 membership](https://www.siam.org/membership/join-siam/individual-members/student).
 
+## Association for Women in Mathematics
+
+The [Cornell Student Chapter of the Association for Women in
+Mathematics (AWM)](http://pi.math.cornell.edu/~awm/) was established
+in 2011 and is supported by Cornell's Department of Mathematics.  CAM
+students are typically invited each year.
+
 ## Other Events
 
 Throughout the year, CAM offers a number of social events for students
-and faculty, including fall and spring picnics, a holiday celebration,
+and faculty, including a fall picnic, a holiday celebration,
 orientation for new students, and a graduation ceremony.  In addition
 to formal CAM events, the CAM students also organize a variety of
 events, including a coffee hour, the informal "CAM Colloquiually"
@@ -799,15 +792,15 @@ of the centers governed by Cornell's
 most "local" administration that CAM students will see involves the
 CAM director and administrative manager.
 
-The CAM Director (David Bindel) also serves as the Director of
-Graduate Studies (DGS) for the field of applied mathematics.  Erika
-Fowler-Decatur serves as the Graduate Field Assistant (GFA).  The GFA
-and DGS manage the affairs of the field and sign graduate student
-forms and petitions, as well as serving as the first point of contact
-between students and the Graduate School.  The CAM administration is
-also generally the first point of contact between graduate students
-and the other academic units on campus, such as the departments that
-provide TA lines for CAM students.
+The CAM Director also serves as the Director of Graduate Studies (DGS)
+for the field of applied mathematics, and the Administrative Manager
+serves as the Graduate Field Assistant (GFA).  The GFA and DGS manage
+the affairs of the field and sign graduate student forms and
+petitions, as well as serving as the first point of contact between
+students and the Graduate School.  The CAM administration is also
+generally the first point of contact between graduate students and the
+other academic units on campus, such as the departments that provide
+TA lines for CAM students.
 
 ## Residency and leave
 
@@ -850,10 +843,11 @@ Chairs may rate student progress as excellent, satisfactory, needs
 improvement, or unsatisfactory.  The SPR document is available to the
 student, the special committee, and the DGS and GFA.
 
-The SPR is required even if advisors already communicate on a regular
-basis. For students who usually only talk to their advisors about
-research, the SPR can be an opportunity to have a conversation both
-about progress through the program and about broader career goals.
+The SPR is required beginning the second year even if advisors already
+communicate on a regular basis. For students who usually only talk to
+their advisors about research, the SPR can be an opportunity to have a
+conversation both about progress through the program and about broader
+career goals.
 
 ## Academic standing
 
@@ -882,7 +876,7 @@ standard processes used by every student (scheduling exams and
 registering the results of those exams, filing a dissertation), as
 well as petitions for change of status or for extensions on program
 milestones.  For guidance on graduate school petitions and forms,
-students should communicate with the GFA (Erika Fowler-Decatur).
+students should communicate with the Administrative Manager.
 
 # Other Cornell resources
 
@@ -893,3 +887,20 @@ page](https://gradschool.cornell.edu/resources/) has pointers to
 numerous resources around Cornell for academics, health and wellness,
 safety, managing as an international student, student life, etc.
 
+Mental health challenges are common in graduate school, and students
+should know about Cornell's resources:
+
+  - For mental health information: <https://mentalhealth.cornell.edu>
+  - For 24/7 mental health assistance, including Talk & Text lines:
+    <https://mentalhealth.cornell.edu/247-help>
+  - For mental health care options at CAPS (Counseling & Psychological
+    Services):
+    <https://health.cornell.edu/services/mental-health-care>
+  - Let's Talk drop-in Zoom consultations are 3-4:30 PM on weekdays:
+    <https://health.cornell.edu/services/mental-health-care/lets-talk>
+
+For any concerns about unethical behavior, biased
+speech, etc, resources students should know about are the Office of
+Institutional Equity and Title IX, Office of the University Ombudsman
+(<https://www.ombudsman.cornell.edu>) and the bias reporting center (255-1426,
+`report_bias@cornell.edu`).
