@@ -36,7 +36,7 @@ candidates for the Doctor of Philosophy Degree are considered. About
 students, though the target size depends on funding, advising
 capacity, and space.
 
-# Application to the program
+# Application to the Program
 
 [Applications to the CAM PhD
 program](https://www.cam.cornell.edu/cam/academics/phd-program/admissions)
@@ -102,7 +102,7 @@ inform CAM about their enrollment decisions (usually April 15).  When
 international students respond that they will enroll at Cornell, they
 are sent an I-20 form.
 
-# Program timeline and milestones
+# Program Timeline and Milestones
 
 A PhD in Applied Mathematics typically takes 4-6 years depending on
 several factors. These factors include the level of preparation prior
@@ -268,7 +268,7 @@ one member for each of two minor subjects. One of the minor subjects
 must be mathematics. The other minor field can be from any area chosen
 by the student that is relevant to their doctoral research.
 
-## Finding a permanent advisor
+## Finding a Permanent Advisor
 
 Because applied math is an “orphan" graduate field without an
 associated a department, the faculty affiliated with applied math
@@ -356,7 +356,7 @@ an important formal role in guiding you through the PhD program, but
 it is worthwhile cultivating a broader network of mentors beyond your
 committee as well.
 
-# A and B exams
+# A and B Exams
 
 To be admitted formally to candidacy for the Ph.D. degree, the student
 must pass the oral admission to candidacy examination or A exam. This
@@ -395,7 +395,7 @@ with the student's temporary committee chair will assist first-year
 students in determining the appropriate courses to meet individual
 needs.  All requirement courses must be taken for a letter grade.
 
-## Enrollment expectations
+## Enrollment Expectations
 
 Students on ordinary status (e.g.~not on leave of absence) are
 required to enroll in a minimum of 12 credits per semester.  Students
@@ -494,7 +494,7 @@ Signal and Image Processing, etc.)
 - CS 6117, 6764, 6766, 6860
 - MATH 6310, 6320, 6340, 6390, 6810, 7880
 
-## Minor requirements
+## Minor Requirements
 
 Students are required to have minors in Mathematics and in another
 field relevant to their doctoral research.  The Graduate School
@@ -529,7 +529,7 @@ Note that the course requirements listed above for the CAM core may
 suffice to satisfy the requirements for a graduate minor in
 Mathematics.
 
-## Note on eligible courses
+## Note on Eligible Courses
 
 The NY State Education Department policy indicates that
 
@@ -545,7 +545,7 @@ Because of this policy, beginning in Fall 2021,
 courses taken to fulfill CAM requirements must be taken with the
 *graduate* course number (5000+).
 
-# Life at the center
+# Life at the Center
 
 CAM today is a center of several applied math activities on campus.
 The core of the center is the graduate field of applied mathematics.
@@ -555,7 +555,7 @@ that brings a wide variety of applied mathematicians to campus.  The
 physical heart of the program is a space on the sixth floor of Rhodes
 Hall where all our PhD students and postdocs have their desks.
 
-## CAM space
+## CAM Space
 
 Each student is guaranteed an individual cubicle in a shared work
 space environment. This set up allows for more collaboration and
@@ -564,7 +564,7 @@ materials.  A color printer is available, and print jobs with more
 difficult requirements can be accommodated by working with the
 Administrative Manager.
 
-## Computing resources
+## Computing Resources
 
 Incoming CAM students are provided with their own computer.  This can be
 either a laptop or a desktop, at the request of the student.
@@ -659,7 +659,7 @@ and a final year be on a Graduate School fellowship. While the funding
 comes from different sources, the student has received the guaranteed
 five years of support.
 
-## What funding covers
+## What Funding Covers
 
 All full-time students receive a support package that includes the
 following:
@@ -698,7 +698,7 @@ arrived in the United States in order to receive their
 stipend. Cornell University also offers free direct deposit into your
 bank account.
 
-## Types of funding
+## Types of Funding
 
 There are typically three types of funding sources: fellowships,
 Teaching Assistantships (TA), and Graduate Research Assistantships
@@ -752,7 +752,7 @@ is helpful for their dissertation research and for finding a research
 or academic oriented position after earning the PhD. Stipends are
 typically paid in bi weekly paychecks.
 
-## Outside employment
+## Outside Employment
 
 Students with a university-funded fellowship, external fellowship, or
 GRA position may accept employment of no more than eight hours per
@@ -760,7 +760,7 @@ week, if allowed in the terms of the fellowship.  Students working as
 TAs may work up to five hours per week, so long as the combined hours
 of the assistantship and work do not exceed 20 hours per week.
 
-## Summer support options
+## Summer Support Options
 
 There is no tuition charged if a student enrolls in research over the
 summer (June-August). However, the student is responsible for tuition
@@ -770,13 +770,13 @@ students receive summer funding as a GRA or TA depending on faculty
 support. Many CAM students also take advantage of the summer period to
 pursue internships in industry, national labs, or elsewhere.
 
-## Conference and travel grants
+## Conference and Travel Grants
 
 The Graduate School offers limited funding for presenting at
 conferences or undertaking research in other locations. Please refer
 to the Graduate School web site for details and procedures.
 
-# Administrative matters
+# Administrative Matters
 
 The graduate field of Applied Mathematics is part of CAM; but, as with
 all graduate fields at Cornell, is administratively a part of the
@@ -802,7 +802,7 @@ generally the first point of contact between graduate students and the
 other academic units on campus, such as the departments that provide
 TA lines for CAM students.
 
-## Residency and leave
+## Residency and Leave
 
 To receive an advanced degree a student must fulfill the residence
 requirements of the Graduate School. One unit of residence is granted
@@ -849,7 +849,7 @@ their advisors about research, the SPR can be an opportunity to have a
 conversation both about progress through the program and about broader
 career goals.
 
-## Academic standing
+## Academic Standing
 
 Students are expected to meet graduate school milestones or work
 through approved petition processes.  Students who have formed a
@@ -868,7 +868,7 @@ School.  In this case, the DGS will work with the student, advisor,
 and Graduate School on a detailed improvement plan, which is approved
 by (and then enforced by) the graduate school.
 
-## Petitions and other forms
+## Petitions and Other Forms
 
 Petitions and other forms are [available from the graduate school web
 site](https://gradschool.cornell.edu/forms/).  These forms include
@@ -878,7 +878,7 @@ well as petitions for change of status or for extensions on program
 milestones.  For guidance on graduate school petitions and forms,
 students should communicate with the Administrative Manager.
 
-# Other Cornell resources
+# Other Cornell Resources
 
 The [Graduate School web page](https://gradschool.cornell.edu/) has a
 wealth of information for prospective and current students.  In
